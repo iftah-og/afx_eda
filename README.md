@@ -1,4 +1,4 @@
-# Aphex Twin Track Analysis
+# Exploratory Data Analysis of Aphex Twin's Music Using Spotify Metrics
 
 This repository contains an analysis of Aphex Twin's discography using Spotify's audio features. The project focuses on understanding relationships between various track features and developing a custom metric called "Bangerness" to evaluate the intensity and atmosphere of each track. Additionally, it aims to better understand how Spotify's metrics apply to the unique music of Aphex Twin.
 
